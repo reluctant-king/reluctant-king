@@ -26,28 +26,32 @@ I'm passionate about building innovative solutions and exploring new technologie
 </p>
 
 ### 🌐 Web Development  
-<p align="left">  
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" />
+<p align="left"> 
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" /> </p>
 
 ### 🗄️ Databases  
 <p align="left">  
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLyog-%231572B6.svg?logo=datagrip&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms  
-<p align="left">  
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?logo=microsoft-office&logoColor=white" />
-</p>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?logo=pycharm&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?logo=microsoft-office&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white" /> </p>
 
 ---
 
