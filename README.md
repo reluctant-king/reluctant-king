@@ -89,7 +89,7 @@ I'm passionate about building innovative solutions and exploring new technologie
 - 🖥️ [Portfolio Website](https://github.com/reluctant-king/portfolio)  
   _Personal website to showcase my skills, resume, and projects._
 
-- 🖥️ [Event Management System](https://github.com/reluctant-king/event-management-syste)  
+- 🎉 [Event Management System](https://github.com/reluctant-king/event-management-syste)  
   _Eventified is a web-based event management system for discovering, registering, and engaging with events.._
 
 ---
