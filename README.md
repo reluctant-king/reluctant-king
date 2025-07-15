@@ -89,6 +89,8 @@ I'm passionate about building innovative solutions and exploring new technologie
 - 🖥️ [Portfolio Website](https://github.com/reluctant-king/portfolio)  
   _Personal website to showcase my skills, resume, and projects._
 
+🖥️ [Event Management System](https://github.com/reluctant-king/event-management-system)  
+  _Personal website to showcase my skills, resume, and projects._
 ---
 
 ## 📊 GitHub Stats  
