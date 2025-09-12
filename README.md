@@ -93,9 +93,11 @@ I'm passionate about building innovative solutions and exploring new technologie
 - 🎉 [Event Management System](https://github.com/reluctant-king/event-management-syste)  
   _Eventified is a web-based event management system for discovering, registering, and engaging with events.._
 
-# 🎯 [Product Management System](https://github.com/reluctant-king/product-management-system)
+- 🎯 [Product Management System](https://github.com/reluctant-king/product-management-system)
+  _Product Management System is React-based full-stack web application that allows users to create, update, and manage products efficiently. It provides features like product listings, editing, image uploads, and API integration for seamless management._
 
-_Product Management System is a full-stack web application that allows users to create, update, and manage products efficiently. It provides features like product listings, editing, image uploads, and API integration for seamless management._
+- 🎬 [Movie-App](https://github.com/reluctant-king/Movie-App)
+  _Movie-App is a React-based web application that lets users discover trending movies, search by title, and view details like rating, cast. Integrated with TMDB API for real-time movie data._
 
 ---
 
