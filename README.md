@@ -57,7 +57,8 @@ I'm passionate about building innovative solutions and exploring new technologie
 
 ## 🏆 Internships & Training  
 
-- 💼 **Corezone Solutions** – Web Development Intern _(2025)_  
+- 💼 **Corezone Solutions** – Web Development Intern (Python-Django) _(2025)_
+- 💼 **AllPro TechLabs** – Web Development Intern (REACT) _(2025)_  
 - 💼 **TechSonix Solutions** – Web Development Intern _(April 2025)_  
 - 🎓 **Nesote Outsourcing Services Pvt. Ltd.** – Web Development Training _(April 2025)_
 
@@ -91,6 +92,10 @@ I'm passionate about building innovative solutions and exploring new technologie
 
 - 🎉 [Event Management System](https://github.com/reluctant-king/event-management-syste)  
   _Eventified is a web-based event management system for discovering, registering, and engaging with events.._
+
+# 🎯 [Product Management System](https://github.com/reluctant-king/product-management-system)
+
+_Product Management System is a full-stack web application that allows users to create, update, and manage products efficiently. It provides features like product listings, editing, image uploads, and API integration for seamless management._
 
 ---
 
