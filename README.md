@@ -33,6 +33,9 @@ I'm passionate about building innovative solutions and exploring new technologie
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" /> 
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" /> </p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+
 
 ### 🗄️ Databases  
 <p align="left">  
@@ -40,6 +43,8 @@ I'm passionate about building innovative solutions and exploring new technologie
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLyog-%231572B6.svg?logo=datagrip&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" />
+  
+
 </p>
 
 ### ⚙️ Tools & Platforms  
