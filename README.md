@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Ambady Unnikrishnan</h1>
-<h3 align="center">🚀 Software Developer | Problem Solver | Tech Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3AACF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%7C+React+%7C+Django;Building+Real-World+Solutions;Open+to+Remote+Roles" alt="Typing SVG" />
+</div>
+
 
 I'm passionate about building innovative solutions and exploring new technologies. With hands-on experience in **Python, PHP, JavaScript**, and **SQL**, I strive to create impactful and scalable software products.
 
